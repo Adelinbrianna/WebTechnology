@@ -1,0 +1,5 @@
+<servlet> 
+<servlet-name>EmployeeServlet</servlet-name> <servlet-class>com.example.EmployeeServlet</servlet-class> </servlet> 
+<servlet-mapping> 
+<servlet-name>EmployeeServlet</servlet-name> <url-pattern>/EmployeeServlet</url-pattern> 
+</servlet-mapping> 
