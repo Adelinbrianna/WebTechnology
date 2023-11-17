@@ -1,0 +1,6 @@
+<web-app>   
+    <servlet>
+        <servlet-name>cookiepgm</servlet-name>
+        <servlet-class>p5</servlet-class>
+    </servlet>
+</web-app>   
