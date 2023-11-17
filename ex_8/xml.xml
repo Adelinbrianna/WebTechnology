@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "utf-8"?> <employeedata> 
+<department category = "IT"> 
+<first_name>Joey</first_name> 
+<last_name>Tribbiani</last_name> <age>50</age> 
+<salary>150000</salary> 
+<gender>Male</gender> 
+</department> 
+<department category = "CSE"> <first_name>Monica</first_name> <last_name>Geller</last_name> <age>40</age> 
+<salary>152000</salary> 
+<gender>Female</gender> 
+</department> 
+<department category = "IT"> 
+<first_name>Rachel</first_name> <last_name>Green</last_name> <age>45</age> 
+<salary>155555</salary> 
+<gender>Female</gender> 
+</department> 
+</employeedata> 
